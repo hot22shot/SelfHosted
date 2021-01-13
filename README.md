@@ -16,3 +16,4 @@ Here the list and link of my self hosted applications :
 * Terminal over web : https://github.com/butlerx/wetty, container installed on a DS916+.
 * AdGuard Home : https://github.com/AdguardTeam/AdGuardHome, installed on 2 PI3b+.
 * Cockpit : https://github.com/cockpit-project/cockpit, installed on 2 PI3B+.
+* OpenHAB : https://github.com/openhab/openhab-docker, installed on a DS916+.
