@@ -17,3 +17,7 @@ Here the list and link of my self hosted applications :
 * AdGuard Home : https://github.com/AdguardTeam/AdGuardHome, installed on 2 PI3b+.
 * Cockpit : https://github.com/cockpit-project/cockpit, installed on 2 PI3B+.
 * OpenHAB : https://github.com/openhab/openhab-docker, java based, container installed on a DS916+.
+
+OS :
+* Ubuntu Server 20.10 64bits for the PI3b+.
+* TODO : Test DietPI once they deliver a 64 bits OS.
