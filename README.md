@@ -21,3 +21,6 @@ Here the list and link of my self hosted applications :
 OS :
 * Ubuntu Server 20.10 64bits for the PI3b+.
 * TODO : Test DietPI once they deliver a 64 bits OS.
+
+Link :
+* https://github.com/awesome-selfhosted/awesome-selfhosted#note-taking-and-editors
